@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background-color: rgb(21, 21, 21);
+}
+.card-login {
+    width: 500px;
+}
+.card-light {
+    background-color: rgb(223, 223, 223);
+}
